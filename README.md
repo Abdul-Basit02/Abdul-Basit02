@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-**I'm [ABDUL BASIT],** a [WEB DEVELOPER] with a passion for [SOFTWARE DEVELOPE]. I'm always eager to learn new things and collaborate on exciting projects. 
+**I'm [ABDUL BASIT],** a [WEB DEVELOPER] with a passion for [DEVELOPE SOFTWARE]. I'm always eager to learn new things and collaborate on exciting projects. 
 
 **Education:**
 
