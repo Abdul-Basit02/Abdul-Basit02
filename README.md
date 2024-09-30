@@ -3,8 +3,7 @@
 **I'm [ABDUL BASIT],** a [WEB DEVELOPER] with a passion for [DEVELOPE SOFTWARE]. I'm always eager to learn new things and collaborate on exciting projects. 
 
 **Education:**
-
-[Jinnah government college]
+* [Jinnah government college]
 intermediate education 
 
 **Skills:**
