@@ -8,6 +8,7 @@
 
 **Skills:**
 * [PHP]
+* [C#]
 * [HTML AND CSS]
 * [JAWA SCRIPT]
 * Frame work and library[LARAVEL,BOOTSTRAP and jequery]
