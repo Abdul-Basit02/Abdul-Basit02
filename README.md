@@ -1,9 +1,12 @@
 ### Hi there! 👋
 
-**I'm [ABDUL BASIT],** a [WEB DEVELOPER] with a passion for [DEVELOPE SOFTWARE]. I'm always eager to learn new things and collaborate on exciting projects. 
+**I'm [ABDUL BASIT],** a [WEB DEVELOPER] with a passion for [DEVELOPING SOFTWARE]. I'm always eager to learn new things and collaborate on exciting projects. 
 
 **Education:**
-* Intermediate Education
+* Matriculation Education *
+[Dawn Public School]
+
+* Intermediate Education *
 [Jinnah government college]
 
 **Skills:**
